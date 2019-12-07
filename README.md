@@ -1,1 +1,1 @@
-"#2019-1-CECD2-couldbe-6" 
+# S13RNG - Random Number Generator Based on SHA-1 Hash Function
