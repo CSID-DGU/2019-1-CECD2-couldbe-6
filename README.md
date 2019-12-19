@@ -12,4 +12,5 @@ Import S13RNG.py to your program
 pyinstaller -F -w --clean --path "PyQt5 path" Project.py or UIInit.py
 
 Project.py -> to run, need project.ui
+
 UIInit.py -> no need project.ui
