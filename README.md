@@ -8,6 +8,7 @@ S13RNG는 기존의 문제점을 해결하고자 만든 새로운 Random Number 
 Import S13RNG.py to your program
 ### How to Complie GUI (optional)
 !!! Requires PyQt5, pyinstaller !!!
+
 pyinstaller -F -w --clean --path "PyQt5 path" Project.py or UIInit.py
 
 Project.py -> to run, need project.ui
